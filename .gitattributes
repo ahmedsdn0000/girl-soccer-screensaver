@@ -1,0 +1,6 @@
+*.map linguist-generated
+public/index.html linguist-vendored
+
+*.yml linguist-detectable=false
+
+app/*.tsx linguist-detectable
